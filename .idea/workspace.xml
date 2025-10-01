@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb5446fd-98bd-4d83-b79d-dba181e61dd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AppArrays/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Archivo1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayMulti/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO_Game/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO_Game/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO_Game/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO_Game/POO_Game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO_Game/out/production/POO_Game/Auto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO_Game/out/production/POO_Game/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO_Game/out/production/POO_Game/Nissan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO_Game/out/production/POO_Game/Toyota.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO_Game/src/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO_Game/src/Hyundai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO_Game/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO_Game/src/Nissan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO_Game/src/Toyota.java" afterDir="false" />
-    </list>
+    <list default="true" id="cb5446fd-98bd-4d83-b79d-dba181e61dd6" name="Changes" comment="solucion de conflicto con idea/misc.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +35,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging develop",
+    "git-widget-placeholder": "develop",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/NTTDATA INFO/EXAMEN DE GIT/QALabNTTDATA082025",
     "project.structure.last.edited": "Project",
@@ -83,6 +66,19 @@
       <option name="presentableId" value="Default" />
       <updated>1759291713870</updated>
     </task>
+    <task id="LOCAL-00001" summary="solucion de conflicto con idea/misc.xml">
+      <option name="closed" value="true" />
+      <created>1759293999320</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759293999320</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="solucion de conflicto con idea/misc.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="solucion de conflicto con idea/misc.xml" />
   </component>
 </project>
